@@ -1,7 +1,6 @@
-# Blockchain-EXP-6
+# Experiment 6: Blockchain-Based Passwordless Authentication (Using Public-Private Key Cryptography)
 ## Name: Joshua Samuel S
 ## Reg No: 212222040065
-# Experiment 6: Blockchain-Based Passwordless Authentication (Using Public-Private Key Cryptography)
 # Aim:
 To implement a secure passwordless authentication system using public-private key cryptography on Ethereum. This prevents phishing and password leaks.
 
